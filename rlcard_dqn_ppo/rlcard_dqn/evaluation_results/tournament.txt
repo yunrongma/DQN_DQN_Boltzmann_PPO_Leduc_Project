@@ -1,0 +1,9 @@
+Agent Pair Evaluation Results:
+============================================================
+DQN vs DQN_Boltzmann - Avg Reward (DQN): 0.0410, Avg Reward (DQN_Boltzmann): -0.0410, Win Rate (DQN): 29.90%, Win Rate (DQN_Boltzmann): 50.70%, Draw Rate: 19.40%
+DQN vs PPO - Avg Reward (DQN): -0.8210, Avg Reward (PPO): 0.8210, Win Rate (DQN): 21.80%, Win Rate (PPO): 60.10%, Draw Rate: 18.10%
+DQN_Boltzmann vs PPO - Avg Reward (DQN_Boltzmann): -0.8160, Avg Reward (PPO): 0.8160, Win Rate (DQN_Boltzmann): 30.80%, Win Rate (PPO): 49.50%, Draw Rate: 19.70%
+DQN vs Random - Avg Reward (DQN): 1.1430, Avg Reward (Random): -1.1430, Win Rate (DQN): 84.30%, Win Rate (Random): 11.00%, Draw Rate: 4.70%
+DQN_Boltzmann vs Random - Avg Reward (DQN_Boltzmann): 1.1105, Avg Reward (Random): -1.1105, Win Rate (DQN_Boltzmann): 84.10%, Win Rate (Random): 11.10%, Draw Rate: 4.80%
+PPO vs Random - Avg Reward (PPO): 1.2565, Avg Reward (Random): -1.2565, Win Rate (PPO): 83.20%, Win Rate (Random): 11.70%, Draw Rate: 5.10%
+
